@@ -12,3 +12,7 @@ collections:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
+
+backend:
+  name: github
+  repo: cchchoi1986/netlify-cms-tutorial
